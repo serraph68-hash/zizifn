@@ -1,4 +1,4 @@
-name = "worker-icy-art-348a"
+name = "jadid"
 main = "index.js"
 compatibility_date = "2025-11-09"
 workers_dev = true
@@ -11,7 +11,7 @@ send_metrics = false
 minify = false
 
 [vars]
-UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
+UUID = "bf39a710-ed34-4564-9d10-5b76f0adef93"
 PROXYIP = "nima.nscl.ir"
 
 # [build]
